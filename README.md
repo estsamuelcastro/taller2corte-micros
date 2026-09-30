@@ -6,3 +6,7 @@ Para esta actividad se hizo uso de 4 switches que permitían controlar el despla
 Cuando presionas A, B o C, envía ese comando por USB/Serial al computador. Python recibe el comando, cambia la posición objetivo de la formación y el controlador PID de gym-pybullet-drones mueve los drones de forma progresiva hasta esa zona.
 A continuacion se adjunta el video de evidencia del funcionamiento: https://drive.google.com/file/d/1asNUj4RkRGPy7nwx1rVaF0Houf3x7uc3/view?usp=sharing
 adicionalmente se adjunta los archivos de la programacion de la esp(esp_control_drones) y la generacion de los drones en pybullet(actividad_drones).
+
+# control de baxter
+en la segunda activida del taller se pedia controlar el brazo de un baxter y ser capaz de agarrar y soltar un objeto con la garra del brazo, esto se hizo por medio de un joystick y una esp, a continuacion se muestra la evidencia del funcionamiento en un video y se encontarran los archivos de programacion del pybullet y la esp.
+https://drive.google.com/file/d/1XGjR18sMDk7Hdhy75ELCBDNswPdM49t9/view?usp=sharing
